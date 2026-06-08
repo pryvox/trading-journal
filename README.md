@@ -1,3 +1,3 @@
 # trading-journal
 
-index : https://pryvox.github.io/trading-trading
+index : https://pryvox.github.io/trading-journal
